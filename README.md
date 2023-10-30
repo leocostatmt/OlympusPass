@@ -11,4 +11,4 @@ A Web Backoffice/ App Client for Gym Start-ups developed with the objective to b
 
 ([Project Web Spring Boot](https://github.com/leocostatmt/spring-tcc))
 
-([Project Web Spring Boot](https://github.com/leocostatmt/OlympusPass/blob/main/documentacao.2.0.pdf))
+([Project Documentation](https://github.com/leocostatmt/OlympusPass/blob/main/documentacao.2.0.pdf))
