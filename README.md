@@ -6,9 +6,14 @@ A Web Backoffice/ App Client for Gym Start-ups developed with the objective to b
 
 # Repositories of Project Olympus Pass
 
+**Repositório do Aplicativo:**
 ([Project App Flutter](https://github.com/leocostatmt/AppOlympusPassV3))
-    ([Prototype App Flutter (For Tests)](https://app-olympus-pass-mobilev2.flutterflow.app))
 
+**Protótipo para Testes:**
+([Prototype App Flutter (For Tests)](https://app-olympus-pass-mobilev2.flutterflow.app))
+
+**Repositório do Sistema Web:**
 ([Project Web Spring Boot](https://github.com/leocostatmt/spring-tcc))
 
+**Documentação Completa do Projeto:**
 ([Project Documentation](https://github.com/leocostatmt/OlympusPass/blob/main/Documentation_OlympusPass.pdf))
